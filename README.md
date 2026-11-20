@@ -12,7 +12,7 @@
 - **University / Institute:** ICBT Campus
 - **Product Category:** Health Care & Services
 - **Official Repository:** [https://github.com/kavishkat2002/CreativeX_ICBT](https://github.com/kavishkat2002/CreativeX_ICBT)
-- **Demo Video:** `project-demo.mp4` (Included in repository root)
+  
 
 ---
 
